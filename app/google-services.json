@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "256352698829",
+    "firebase_url": "https://mytest1-62452-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "mytest1-62452",
+    "storage_bucket": "mytest1-62452.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:256352698829:android:5ac6c8c7f94e6fe6258484",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqIi2DsqjdVGBBYcQrAEp2-fxUBpeDAEg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:256352698829:android:865e3a3f2a81a99e258484",
+        "android_client_info": {
+          "package_name": "com.occity.toball"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqIi2DsqjdVGBBYcQrAEp2-fxUBpeDAEg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
